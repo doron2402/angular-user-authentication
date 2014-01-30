@@ -1,0 +1,23 @@
+{
+  "name": "spa1",
+  "version": "0.0.0",
+  "description": "Angular ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doron2402/angular-user-authentication.git"
+  },
+  "keywords": [
+    "node.js",
+    "angular"
+  ],
+  "author": "Doron Segal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/doron2402/angular-user-authentication/issues"
+  },
+  "homepage": "https://github.com/doron2402/angular-user-authentication"
+}
